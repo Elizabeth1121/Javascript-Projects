@@ -12,3 +12,6 @@
 
     - Added Projects4_dictionaries (2/26/24)
         - added a JS folder with a main.js , and added an index.html (2/26/24)
+
+    - Added Projects5_comparisons_type_coercion (2/26/24)
+        - added a JS folder with a main.js , and added an index.html (2/26/24)
