@@ -15,3 +15,6 @@
 
     - Added Projects5_comparisons_type_coercion (2/26/24)
         - added a JS folder with a main.js , and added an index.html (2/26/24)
+
+    - Added Projects6_ternary_operators_constructors (2/26/24)
+        - added a JS folder with a main.js , and added an index.html (2/26/24)
