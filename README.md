@@ -25,5 +25,5 @@
     - Added Projects8_string_methods (2/27/24)
         - added a JS folder with a main.js , and added an index.html (2/27/24)
 
-    - Added Projects9_cpuntdown_slideshow (2/27/24)
+    - Added Projects9_countdown_slideshow (2/27/24)
         - added a JS folder with a main.js , and added an index.html (2/27/24)
