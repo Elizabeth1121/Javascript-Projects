@@ -30,3 +30,6 @@
 
     - Added Projects10_loops_arays (2/29/24)
         - added a JS folder with a main.js , and added an index.html (2/29/24)
+
+    - Added Projects11_switch_statement (2/29/24)
+        - added a JS folder with a main.js , and added an index.html (2/29/24)
