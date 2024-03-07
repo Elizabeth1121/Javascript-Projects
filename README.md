@@ -33,3 +33,6 @@
 
     - Added Projects11_switch_statement (2/29/24)
         - added a JS folder with a main.js , and added an index.html (2/29/24)
+
+    - Added AJAX Project (3/7/24)
+        - added 2 html files, and added style css (3/7/24)
